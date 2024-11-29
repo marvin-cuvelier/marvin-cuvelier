@@ -34,7 +34,7 @@ Here are some of my ongoing projects:
 
 ## 📈 GitHub Stats
 
-![Marvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarvinCuvelier&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Marvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marvin-cuvelier&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ## 🔗 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/marvin-cuvelier)
