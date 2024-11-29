@@ -20,10 +20,6 @@ Here are some of the technologies and tools I work with:
 
 ### Tools & Frameworks:
 - 🧑‍💻 **Git & GitHub**
-- 🚀 **Django**
-- 📱 **Flask**
-- 🧑‍💻 **Node.js**
-- 📦 **Docker**
 
 ## 🚀 Current Projects
 Here are some of my ongoing projects:
