@@ -38,7 +38,7 @@ Here are some of my ongoing projects:
 
 ## 🔗 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/marvin-cuvelier)
-- 🦸‍♂️ [Portfolio Website](https://marvincuvelier.com)
+- 🦸‍♂️ [Portfolio Website](https://marvin-cuvelier.com)
 - 📧 [Email](mailto:marvin@example.com)
 
 Feel free to reach out if you'd like to collaborate or just want to chat about technology!
