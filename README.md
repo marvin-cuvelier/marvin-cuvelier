@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marvin Cuvelier
 
-Welcome to my GitHub profile! I'm a passionate software developer and network security enthusiast. I specialize in Python, Java, HTML, CSS, and network security, and I love building impactful projects.
+Welcome to my GitHub profile! I'm a passionate network security enthusiast. I specialize in Python, Java, HTML, CSS, and network security, and I love building impactful projects.
 
 ## 🔧 Technologies & Tools
 
