@@ -23,9 +23,6 @@ Here are some of the technologies and tools I work with:
 
 ## 🚀 Current Projects
 Here are some of my ongoing projects:
-
-- **[Network Security Scanner](https://github.com/MarvinCuvelier/network-security-scanner)** - A network security tool for vulnerability assessment.
-- **[Python Web Scraper](https://github.com/MarvinCuvelier/python-web-scraper)** - A Python-based web scraper for extracting data from websites.
 - **[Portfolio Website](https://marvincuvelier.com)** - A personal portfolio to showcase my work and achievements.
 
 ## 📈 GitHub Stats
